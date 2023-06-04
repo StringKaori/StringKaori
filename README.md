@@ -5,4 +5,4 @@
 </header>
 
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=stringkaori&show_icons=true&theme=material-palenight)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stringkaori&theme=material-palenight)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stringkaori&layout=compact&theme=material-palenight)
