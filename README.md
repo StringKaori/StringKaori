@@ -10,3 +10,7 @@
    <img height= "180em" src = "https://github-readme-stats.vercel.app/api?username=stringkaori&show_icons=true&theme=material-palenight"/>
    <img height= "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stringkaori&theme=material-palenight&hide_progress=true"/>
 </div>
+
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+</div>
