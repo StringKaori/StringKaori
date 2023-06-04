@@ -4,6 +4,8 @@
    <h3> I'll use this github page to store all the relevant and required codes from the course, as well as for some personal projects.</h3>
 </header>
 
+##
+
 <div>
    <img height= "180em" src = "https://github-readme-stats.vercel.app/api?username=stringkaori&show_icons=true&theme=material-palenight"/>
    <img height= "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stringkaori&theme=material-palenight&hide_progress=true"/>
