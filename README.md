@@ -4,4 +4,4 @@
    <h3> I'll use this github page to store all the relevant and required codes from the course, as well as for some personal projects.</h3>
 </header>
 
-<a href="https://github-readme-stats.vercel.app/api?username=stringkaori&show_icons=true&theme=material-palenight"></a>
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=stringkaori&show_icons=true&theme=material-palenight)
